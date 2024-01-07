@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    margin: 10%;
+}
+h1, h3 {
+    color: darkgreen;
+}
+
+h2 {
+    background: black;
+    color: white;
+}
+ .branco {
+    color: white;
+}
+
+header {
+    background-color: black;
+}
+
+.circul-img {
+    background-image: url('foto-my.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    width: 260px;
+    height: 260px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between
+}
+
+.Insta {
+    background-image: url('Insta.png');
+    width: 15%;
+}
+.Git {
+    background-image: url('github.png');
+    width: 30%;
+}
+.email {
+    background-image: url('email.png');
+    width: 15%;
+}
+
+strong {
+    color: rgb(146, 145, 150);
+}
